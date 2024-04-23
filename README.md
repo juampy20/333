@@ -156,26 +156,56 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:62_premium.smil
 #EXTINF:-1 ,fight time (deportes) 67
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:67_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,test 60
+#EXTINF:-1 ,zod z (deportes) 68
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:68_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,warner (pelis) 69
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,tcm (pelis) 70
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:70_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,bloomber (noticias) 71
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:71_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,aljazeeerra (noticias) 72
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:72_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,cgtn español (noticias) 73
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:73_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,test 74
+-------------------
+
+#EXTINF:-1 ,cosmo 75
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,test 76,77
+-------------------
+
+#EXTINF:-1 ,tv3 (noticias) 78
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:78_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,test 79
+------------------
+
+#EXTINF:-1 ,mediterrraneo 80
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:80_premium.smil/manifest.m3u8
 
 
-#EXTINF:-1 ,test 60
+#EXTINF:-1 ,test 81
 
 
-#EXTINF:-1 ,test 60
+#EXTINF:-1 ,test 82
 
 
-#EXTINF:-1 ,test 60
+#EXTINF:-1 ,test 83
 
 
+#EXTINF:-1 ,test 84
 
 
-
-
-
-
-
-
+#EXTINF:-1 ,test 85
 
 
 
