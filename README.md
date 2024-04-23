@@ -21,19 +21,43 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_premium.smil/m
 #EXTINF:-1 ,antena tres
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,test 1
-https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_premium.smil/manifest.m3u8
+#EXTINF:-1 ,test 8
+-------------------
 
-#EXTINF:-1 ,test 2
+#EXTINF:-1 ,test 9
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_premium.smil/manifest.m3u8
 
+#EXTINF:-1 ,test 10
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,la sexta
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,test 12
+------------------
+
+#EXTINF:-1 ,neox
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,test 14
+------------------
+
+#EXTINF:-1 ,test 15
+--------------------
+
+#EXTINF:-1 ,test 16
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,test 17
 
 
+#EXTINF:-1 ,test 18
 
 
+#EXTINF:-1 ,test 19
 
 
-
+#EXTINF:-1 ,test 20
 
 
 
