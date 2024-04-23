@@ -193,22 +193,43 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:78_premium.smil
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:80_premium.smil/manifest.m3u8
 
 
-#EXTINF:-1 ,test 81
+#EXTINF:-1 ,sy fy (pelis) 81
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,holywood 82
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:82_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,odisea 83
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:83_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,de la casa 84
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:84_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,cocina 4k 85
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_premium.smil/manifest.m3u8
+
+#EXTINF:-1 , XTRM (pelis) 86
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:86_premium.smil/manifest.m3u8
+
+#EXTINF:-1 , AMC (pelis) 87
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_premium.smil/manifest.m3u8
+
+#EXTINF:-1 , 85
 
 
-#EXTINF:-1 ,test 82
+
+#EXTINF:-1 , 85
 
 
-#EXTINF:-1 ,test 83
-
-
-#EXTINF:-1 ,test 84
-
-
-#EXTINF:-1 ,test 85
+#EXTINF:-1 , 85
 
 
 
+#EXTINF:-1 , 85
+
+
+
+#EXTINF:-1 , 85
 
 
 
