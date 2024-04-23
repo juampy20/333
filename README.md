@@ -133,10 +133,10 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:49_premium.smil
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:52_premium.smil/manifest.m3u8
 
 #EXTINF:-1 ,test 53
+-------------------
 
-
-#EXTINF:-1 ,test 54
-
+#EXTINF:-1 ,discovery channel 54
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_premium.smil/manifest.m3u8
 
 #EXTINF:-1 ,test 55
 
