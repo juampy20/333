@@ -39,11 +39,8 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_premium.smil
 #EXTINF:-1 ,neox
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,test 14
+#EXTINF:-1 ,test 14,15
 ------------------
-
-#EXTINF:-1 ,test 15
---------------------
 
 #EXTINF:-1 ,test 16
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_premium.smil/manifest.m3u8
@@ -117,25 +114,34 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:38_premium.smil
 #EXTINF:-1 ,piez caza pezca 39
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:39_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,teen 40
+#EXTINF:-1 ,teen 40,41,42,43,44,45,46,47
 ------------------
 
-#EXTINF:-1 ,test 41
+#EXTINF:-1 ,galicia 47
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:47_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,directe z(deportes) 48
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,torole 49
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:49_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,test 50,51
+-------------------
+
+#EXTINF:-1 ,test 52
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:52_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,test 53
 
 
-#EXTINF:-1 ,test 42
+#EXTINF:-1 ,test 54
 
 
-#EXTINF:-1 ,test 43
+#EXTINF:-1 ,test 55
 
 
-#EXTINF:-1 ,test 44
-
-
-#EXTINF:-1 ,test 45
-
-
-
+#EXTINF:-1 ,test 56
 
 
 
