@@ -91,15 +91,63 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:29_premium.smil
 -------------------
 
 #EXTINF:-1 ,teen 31
-
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:31_premium.smil/manifest.m3u8
 
 #EXTINF:-1 ,teen 32
-
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:32_premium.smil/manifest.m3u8
 
 #EXTINF:-1 ,teen 33
-
+------------------
 
 #EXTINF:-1 ,teen 34
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:34_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,teen 35
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:35_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,iberalia 100%PEZCA 36
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,iberalia 100%CAZA 37
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,iberalia original 38
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:38_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,piez caza pezca 39
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:39_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,teen 40
+------------------
+
+#EXTINF:-1 ,test 41
+
+
+#EXTINF:-1 ,test 42
+
+
+#EXTINF:-1 ,test 43
+
+
+#EXTINF:-1 ,test 44
+
+
+#EXTINF:-1 ,test 45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
