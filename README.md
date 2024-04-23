@@ -229,17 +229,76 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_premium.smil
 #EXTINF:-1 , Darck 92
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:92_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,  92
+#EXTINF:-1 ,  93,94,95,96
+----------------------
 
-#EXTINF:-1 ,  92
+#EXTINF:-1 , etb  97
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:97_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,  92
+#EXTINF:-1 ,  98
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,  92
+#EXTINF:-1 ,  99,100,101
+--------------------------
 
-#EXTINF:-1 ,  92
+#EXTINF:-1 , en familia 102
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:102_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,  92
+#EXTINF:-1 , crime 103
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:103_premium.smil/manifest.m3u8
+
+#EXTINF:-1 , somos 104
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:104_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,  105,106
+-----------------------
+
+#EXTINF:-1 , france 24 (notivvias) 107
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:107_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,  108,109,110,113,115,116,117,118
+--------------------------
+
+#EXTINF:-1 , trt wordl 111
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:111_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,CNN eng (noticias)  112
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:112_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,  114
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:114_premium.smil/manifest.m3u8
+
+
+#EXTINF:-1 ,DTV directo (noticias)  119
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:119_premium.smil/manifest.m3u8
+
+#EXTINF:-1 , 
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
