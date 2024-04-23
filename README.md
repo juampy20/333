@@ -138,14 +138,34 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:52_premium.smil
 #EXTINF:-1 ,discovery channel 54
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,test 55
+#EXTINF:-1 ,test 55,56,57,58
+-------------------
+
+#EXTINF:-1 ,eurosports 2 (deportes) 59
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,test 60
+-------------------
+
+#EXTINF:-1 ,la liga (deportes) 62
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:62_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,test 63,64,65,66
+----------------------
+
+#EXTINF:-1 ,fight time (deportes) 67
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:67_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,test 60
 
 
-#EXTINF:-1 ,test 56
+#EXTINF:-1 ,test 60
 
 
+#EXTINF:-1 ,test 60
 
 
+#EXTINF:-1 ,test 60
 
 
 
