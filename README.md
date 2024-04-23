@@ -256,7 +256,7 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:104_premium.smi
 #EXTINF:-1 , france 24 (notivvias) 107
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:107_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,  108,109,110,113,115,116,117,118
+#EXTINF:-1 ,  108,109,110,113,115,116,117,118,120,121,122
 --------------------------
 
 #EXTINF:-1 , trt wordl 111
@@ -272,8 +272,26 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:114_premium.smi
 #EXTINF:-1 ,DTV directo (noticias)  119
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:119_premium.smil/manifest.m3u8
 
-#EXTINF:-1 , 
+#EXTINF:-1 , fuel tv eng 123
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:123_premium.smil/manifest.m3u8
 
+#EXTINF:-1 ,124,al 148
+----------------------
+
+#EXTINF:-1 , a contra+ (cine) 149
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:149_premium.smil/manifest.m3u8
+
+#EXTINF:-1 , 150
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:150_premium.smil/manifest.m3u8
+
+#EXTINF:-1 , cine feel good 151
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:151_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
 
 #EXTINF:-1 ,
 
@@ -285,6 +303,19 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:119_premium.smi
 
 
 #EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+
+
+
+
+
+
+
+
 
 
 
