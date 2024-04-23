@@ -60,6 +60,31 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_premium.smil/
 #EXTINF:-1 ,test 20
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_premium.smil/manifest.m3u8
 
+#EXTINF:-1 ,disney chanel 21
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,paramount 22
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,d max 23
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,trece 24
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:24_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,Dkiss 25
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:25_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,teen 26
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_premium.smil/manifest.m3u8
+
+
+
+
+
+
+
+
 
 
 
