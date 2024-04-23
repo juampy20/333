@@ -214,26 +214,32 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:86_premium.smil
 #EXTINF:-1 , AMC (pelis) 87
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_premium.smil/manifest.m3u8
 
-#EXTINF:-1 , 85
+#EXTINF:-1 , sundance tv 88
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_premium.smil/manifest.m3u8
 
+#EXTINF:-1 , breack 89
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_premium.smil/manifest.m3u8
 
+#EXTINF:-1 , History 90
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_premium.smil/manifest.m3u8
 
-#EXTINF:-1 , 85
+#EXTINF:-1 , buen viaje 91
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_premium.smil/manifest.m3u8
 
+#EXTINF:-1 , Darck 92
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:92_premium.smil/manifest.m3u8
 
-#EXTINF:-1 , 85
+#EXTINF:-1 ,  92
 
+#EXTINF:-1 ,  92
 
+#EXTINF:-1 ,  92
 
-#EXTINF:-1 , 85
+#EXTINF:-1 ,  92
 
+#EXTINF:-1 ,  92
 
-
-#EXTINF:-1 , 85
-
-
-
-
+#EXTINF:-1 ,  92
 
 
 
