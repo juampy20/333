@@ -78,10 +78,28 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:25_premium.smil
 #EXTINF:-1 ,teen 26
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_premium.smil/manifest.m3u8
 
+#EXTINF:-1 ,teen 27
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,teen 28
+------------------
+
+#EXTINF:-1 ,csn2 29
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:29_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,teen 30
+-------------------
+
+#EXTINF:-1 ,teen 31
 
 
+#EXTINF:-1 ,teen 32
 
 
+#EXTINF:-1 ,teen 33
+
+
+#EXTINF:-1 ,teen 34
 
 
 
