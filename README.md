@@ -287,31 +287,44 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:150_premium.smi
 #EXTINF:-1 , cine feel good 151
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:151_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 , cines verdi tv 152
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:152_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 , extreme tv  153
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,hutler tv (porno) 155
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 , private (porno) 156
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_premium.smil/manifest.m3u8
+
+#EXTINF:-1 , red light hd (porno) 157
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,158  al 187
+----------------------
+
+#EXTINF:-1 , etb 188
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:188_premium.smil/manifest.m3u8
+
+#EXTINF:-1 , etb dual 189
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:189_premium.smil/manifest.m3u8
+
+#EXTINF:-1 
+
+#EXTINF:-1 
+
+#EXTINF:-1 
 
 
-#EXTINF:-1 ,
+#EXTINF:-1 
 
 
-#EXTINF:-1 ,
+#EXTINF:-1 
 
 
-#EXTINF:-1 ,
-
-
-#EXTINF:-1 ,
-
-
-
-
-
-
+#EXTINF:-1 
 
 
 
