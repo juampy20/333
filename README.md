@@ -311,20 +311,45 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:188_premium.smi
 #EXTINF:-1 , etb dual 189
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:189_premium.smil/manifest.m3u8
 
-#EXTINF:-1 
+#EXTINF:-1 190  al 212
+-------------------
 
-#EXTINF:-1 
+#EXTINF:-1 213
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:213_premium.smil/manifest.m3u8
 
-#EXTINF:-1 
+#EXTINF:-1 214 al 220
+-------------------------
+
+#EXTINF:-1 erox (porno) 221
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_premium.smil/manifest.m3u8
+
+#EXTINF:-1  erox xx (porno) 222
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_premium.smil/manifest.m3u8
+
+#EXTINF:-1 fashion box 223
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:223_premium.smil/manifest.m3u8
+
+#EXTINF:-1
 
 
-#EXTINF:-1 
+#EXTINF:-1
 
 
-#EXTINF:-1 
+#EXTINF:-1
 
 
-#EXTINF:-1 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
